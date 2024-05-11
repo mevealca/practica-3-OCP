@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B7A51-BC20-4380-8B5E-A29B5A2C0C49}|OCP.Domain\\OCP.Domain.csproj|c:\\curso_c_intermedio\\source\\practica-3-ocp\\ocp.domain\\ocp.domain\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2B7A51-BC20-4380-8B5E-A29B5A2C0C49}|OCP.Domain\\OCP.Domain.csproj|solutionrelative:ocp.domain\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B7A51-BC20-4380-8B5E-A29B5A2C0C49}|OCP.Domain\\OCP.Domain.csproj|c:\\curso_c_intermedio\\source\\practica-3-ocp\\ocp.domain\\ocp.domain\\paisesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2B7A51-BC20-4380-8B5E-A29B5A2C0C49}|OCP.Domain\\OCP.Domain.csproj|solutionrelative:ocp.domain\\paisesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B7A51-BC20-4380-8B5E-A29B5A2C0C49}|OCP.Domain\\OCP.Domain.csproj|c:\\curso_c_intermedio\\source\\practica-3-ocp\\ocp.domain\\ocp.domain\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2B7A51-BC20-4380-8B5E-A29B5A2C0C49}|OCP.Domain\\OCP.Domain.csproj|solutionrelative:ocp.domain\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B7A51-BC20-4380-8B5E-A29B5A2C0C49}|OCP.Domain\\OCP.Domain.csproj|c:\\curso_c_intermedio\\source\\practica-3-ocp\\ocp.domain\\ocp.domain\\taxcalculatorindia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2B7A51-BC20-4380-8B5E-A29B5A2C0C49}|OCP.Domain\\OCP.Domain.csproj|solutionrelative:ocp.domain\\taxcalculatorindia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B7A51-BC20-4380-8B5E-A29B5A2C0C49}|OCP.Domain\\OCP.Domain.csproj|c:\\curso_c_intermedio\\source\\practica-3-ocp\\ocp.domain\\ocp.domain\\taxcalculatoruk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2B7A51-BC20-4380-8B5E-A29B5A2C0C49}|OCP.Domain\\OCP.Domain.csproj|solutionrelative:ocp.domain\\taxcalculatoruk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19051D1B-ABEF-4E95-8AD7-52BC6AE8DC3D}|OCP.APP\\OCP.APP.csproj|c:\\curso_c_intermedio\\source\\practica-3-ocp\\ocp.domain\\ocp.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19051D1B-ABEF-4E95-8AD7-52BC6AE8DC3D}|OCP.APP\\OCP.APP.csproj|solutionrelative:ocp.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B7A51-BC20-4380-8B5E-A29B5A2C0C49}|OCP.Domain\\OCP.Domain.csproj|c:\\curso_c_intermedio\\source\\practica-3-ocp\\ocp.domain\\ocp.domain\\taxcalculatorusa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2B7A51-BC20-4380-8B5E-A29B5A2C0C49}|OCP.Domain\\OCP.Domain.csproj|solutionrelative:ocp.domain\\taxcalculatorusa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaisesEnum.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.Domain\\PaisesEnum.cs",
+              "RelativeDocumentMoniker": "OCP.Domain\\PaisesEnum.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.Domain\\PaisesEnum.cs",
+              "RelativeToolTip": "OCP.Domain\\PaisesEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:14:24.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxCalculatorIndia.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.Domain\\TaxCalculatorIndia.cs",
+              "RelativeDocumentMoniker": "OCP.Domain\\TaxCalculatorIndia.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.Domain\\TaxCalculatorIndia.cs",
+              "RelativeToolTip": "OCP.Domain\\TaxCalculatorIndia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:52:55.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaxCalculatorUSA.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.Domain\\TaxCalculatorUSA.cs",
+              "RelativeDocumentMoniker": "OCP.Domain\\TaxCalculatorUSA.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.Domain\\TaxCalculatorUSA.cs",
+              "RelativeToolTip": "OCP.Domain\\TaxCalculatorUSA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:52:38.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICalculate.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.Domain\\ICalculate.cs",
+              "RelativeDocumentMoniker": "OCP.Domain\\ICalculate.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.Domain\\ICalculate.cs",
+              "RelativeToolTip": "OCP.Domain\\ICalculate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:49:27.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaxCalculatorUK.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.Domain\\TaxCalculatorUK.cs",
+              "RelativeDocumentMoniker": "OCP.Domain\\TaxCalculatorUK.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.Domain\\TaxCalculatorUK.cs",
+              "RelativeToolTip": "OCP.Domain\\TaxCalculatorUK.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:46:06.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.APP\\Program.cs",
+              "RelativeDocumentMoniker": "OCP.APP\\Program.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.APP\\Program.cs",
+              "RelativeToolTip": "OCP.APP\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:40:48.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaxCalculator.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.Domain\\TaxCalculator.cs",
+              "RelativeDocumentMoniker": "OCP.Domain\\TaxCalculator.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practica-3-OCP\\ocp.Domain\\OCP.Domain\\TaxCalculator.cs",
+              "RelativeToolTip": "OCP.Domain\\TaxCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:40:20.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
